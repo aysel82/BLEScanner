@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="StyleButton">
+        <item name="android:textColor">@color/color_button_text</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">@dimen/button_text_size</item>
+    </style>
+
+    <style name="StyleButtonConnect">
+        <item name="android:textColor">@color/color_button_text</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textSize">@dimen/text_size</item>
+    </style>
+
+    <style name="StyleText">
+        <item name="android:textColor">@color/color_text</item>
+        <item name="android:textSize">@dimen/text_size</item>
+    </style>
+
+</resources>
